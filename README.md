@@ -39,9 +39,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://twitter.com/Courses_Hub
 [youtube]: https://www.youtube.com/c/Courseshub
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/courseshub/
 [linkedin]: https://www.linkedin.com/in/hazrat-umer/
 
 <!--
