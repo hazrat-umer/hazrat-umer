@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hazrat Umer! <br/><a href="https://github.com/hazrat-umer">Programmer</a>, <a href="https://www.linkedin.com/in/hazrat-umer/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Courseshub">YouTuber</a></h1>
+<h1>Hi, I'm Hazrat Umer! <br/><a href="https://github.com/hazrat-umer">Ethical Hacker/Pentester</a>,<br/><a href="https://github.com/hazrat-umer">Programmer</a>, <a href="https://www.linkedin.com/in/hazrat-umer/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Courseshub">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -8,7 +8,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   - 
 - <h2>👨‍💻 Python :</h2>- 
-- Hellow world
+- Hello world
 - C++
 
 
@@ -22,7 +22,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Data Structures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
