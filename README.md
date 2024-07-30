@@ -1,11 +1,12 @@
 <h1>Hi, I'm Hazrat Umer! </br><a href="https://github.com/hazrat-umer">Programmer</a>, <a href="https://www.linkedin.com/in/hazrat-umer/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Courseshub">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Securing the Perimeter  (Udacity Next Generation Cyber Security Nanodegree)</b>
+  - [Securing the Permimeter](https://github.com/hazrat-umer/Securing-the-Perimeter.git)
+  - 
+- <b>..... (.....)</b>
+  - [....](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(...)</b></i>
   - 
 - <h2>👨‍💻 Python :</h2>- 
 - Hello world
