@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hazrat Umer! </br><a href="https://github.com/hazrat-umer">Programmer</a>, <a href="https://www.linkedin.com/in/hazrat-umer/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Courseshub">YouTuber</a></h1>
+<h1>Hi, I'm Hazrat Umer! </br><a href="https://github.com/hazrat-umer">Programmer</a>, <a href="https://www.linkedin.com/in/hazrat-umer/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Courseshub">YouTuber</a>, <a href="https://www.linkedin.com/in/hazrat-umer/">Cyber Security Trainer</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
