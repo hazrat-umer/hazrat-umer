@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Securing the Perimeter  (Udacity Next Generation Cyber Security Nanodegree)</b>
-  - [Securing the Permimeter](https://github.com/hazrat-umer/Securing-the-Perimeter.git)
-  - 
+  - [Securing the Permimeter](https://github.com/hazrat-umer/Securing-the-Perimeter)
+  - [FedF1st-Security-Assessment](https://github.com/hazrat-umer/FedF1st-Security-Assessment)
 - <b>..... (.....)</b>
   - [....](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(...)</b></i>
   - 
